@@ -108,6 +108,7 @@ Version:     1.0
         <delay>1.5</delay>
         <showSnapshotNoVideo>true</showSnapshotNoVideo>
         <showSnapshotDelay>true</showSnapshotDelay>
+		<effect>none</effect>
         </video>
     </view>
     </feature>
